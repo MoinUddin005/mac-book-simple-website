@@ -53,7 +53,11 @@ function totalCost(){
 
 
          document.getElementById('total').innerText = pomocodetotal;
+         
+    
     }
+    pomoInput.value = "";
+    
    })
    
 //memory button update
